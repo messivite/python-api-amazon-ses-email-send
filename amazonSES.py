@@ -1,9 +1,9 @@
 __author__ = 'Mustafa Aksoy'
 from amazonMain import *
-AWS_KEY = "AKIAIIHDRM67ZNIY7UUA"
-AWS_SECRET_KEY = "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"
+AWS_KEY = ""
+AWS_SECRET_KEY = ""
 
-to_addresses = ["kendinizle@gmail.com","ayseedremitoglu35@gmail.com"]
+to_addresses = ["email1@blabla.com","email2@blaba.com"]
 templatePath = "templates/test.html"
 subject = "This is a test subject string!"
 param = {"{deneme}":"MUSTAFA"}
